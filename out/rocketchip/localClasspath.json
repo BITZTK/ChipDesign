@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/compile-resources",
+        "ref:v0:528909e5:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/src/main/resources",
+        "ref:v0:69374707:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/compile.dest/classes"
+    ],
+    "valueHash": -1563406194,
+    "inputsHash": 1488401889
+}

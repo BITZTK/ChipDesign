@@ -1,0 +1,26 @@
+{
+    "value": [
+        {
+            "analysisFile": "/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/compile.dest/zinc",
+            "classes": "ref:v0:69374707:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/macros/compile.dest/zinc",
+            "classes": "ref:v0:5778bdf9:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/macros/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/hardfloat/compile.dest/zinc",
+            "classes": "ref:v0:90e75f05:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/hardfloat/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/cde/compile.dest/zinc",
+            "classes": "ref:v0:3837b465:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/cde/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/nfs/home/zhaotiankun/workspace/ChipDesign/out/xsutils/compile.dest/zinc",
+            "classes": "ref:v0:c7073f39:/nfs/home/zhaotiankun/workspace/ChipDesign/out/xsutils/compile.dest/classes"
+        }
+    ],
+    "valueHash": -1115984613,
+    "inputsHash": 38921768
+}

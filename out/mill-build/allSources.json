@@ -1,0 +1,12 @@
+{
+    "value": [
+        "ref:v0:b098b204:/nfs/home/zhaotiankun/workspace/ChipDesign/build.sc",
+        "ref:v0:e661bde3:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/build.sc",
+        "ref:v0:fcb8a0ae:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/cde/common.sc",
+        "ref:v0:55c34c04:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/common.sc",
+        "ref:v0:97b300ce:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/common.sc",
+        "ref:v0:77fd08af:/nfs/home/zhaotiankun/workspace/ChipDesign/out/mill-build/generateScriptSources.dest"
+    ],
+    "valueHash": 155412995,
+    "inputsHash": -1126074391
+}

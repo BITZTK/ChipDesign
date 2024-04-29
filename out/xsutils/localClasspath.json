@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/xs-utils/compile-resources",
+        "ref:v0:72ef2bdc:/nfs/home/zhaotiankun/workspace/ChipDesign/xs-utils/src/main/resources",
+        "ref:v0:c7073f39:/nfs/home/zhaotiankun/workspace/ChipDesign/out/xsutils/compile.dest/classes"
+    ],
+    "valueHash": 1504849820,
+    "inputsHash": 1631354762
+}

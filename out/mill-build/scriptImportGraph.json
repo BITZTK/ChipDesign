@@ -1,0 +1,47 @@
+{
+    "value": [
+        [
+            "/nfs/home/zhaotiankun/workspace/ChipDesign/build.sc",
+            [
+                1208377594,
+                [
+                    "/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/common.sc",
+                    "/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/cde/common.sc",
+                    "/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/build.sc"
+                ]
+            ]
+        ],
+        [
+            "/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/build.sc",
+            [
+                -790457644,
+                [
+                    "/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/common.sc"
+                ]
+            ]
+        ],
+        [
+            "/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/common.sc",
+            [
+                -602974575,
+                []
+            ]
+        ],
+        [
+            "/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/common.sc",
+            [
+                1084902786,
+                []
+            ]
+        ],
+        [
+            "/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/cde/common.sc",
+            [
+                -39188342,
+                []
+            ]
+        ]
+    ],
+    "valueHash": 1357222929,
+    "inputsHash": 690866849
+}

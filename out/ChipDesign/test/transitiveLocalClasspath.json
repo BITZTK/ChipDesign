@@ -1,0 +1,24 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/compile-resources",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/src/main/resources",
+        "ref:v0:df3db516:/nfs/home/zhaotiankun/workspace/ChipDesign/out/ChipDesign/compile.dest/classes",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/compile-resources",
+        "ref:v0:528909e5:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/src/main/resources",
+        "ref:v0:69374707:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/compile.dest/classes",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/macros/compile-resources",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/macros/src/main/resources",
+        "ref:v0:5778bdf9:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/macros/compile.dest/classes",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/hardfloat/compile-resources",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/hardfloat/resources",
+        "ref:v0:90e75f05:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/hardfloat/compile.dest/classes",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/cde/cde/compile-resources",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/cde/cde/resources",
+        "ref:v0:3837b465:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/cde/compile.dest/classes",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/xs-utils/compile-resources",
+        "ref:v0:72ef2bdc:/nfs/home/zhaotiankun/workspace/ChipDesign/xs-utils/src/main/resources",
+        "ref:v0:c7073f39:/nfs/home/zhaotiankun/workspace/ChipDesign/out/xsutils/compile.dest/classes"
+    ],
+    "valueHash": 139422924,
+    "inputsHash": 283369058
+}

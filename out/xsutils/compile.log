@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mcompiling 43 Scala sources to /nfs/home/zhaotiankun/workspace/ChipDesign/out/xsutils/compile.dest/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/nfs/home/zhaotiankun/workspace/ChipDesign/xs-utils/src/main/scala/Replacer.scala:25:104: imported `ReplacementPolicy` is permanently hidden by definition of object ReplacementPolicy in package utils[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport freechips.rocketchip.util.{Random, UIntToAugmentedUInt, SetAssocLRU, SetAssocReplacementPolicy, ReplacementPolicy, RandomReplacement}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/nfs/home/zhaotiankun/workspace/ChipDesign/xs-utils/src/main/scala/tl/TLLogger.scala:91:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: TLBundleE()[0m
+[0m[[0m[33mwarn[0m] [0m[0m    chn match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m5 deprecations[0m
+[0m[[0m[33mwarn[0m] [0m[0m3 deprecations (since 2.13.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since Chisel 3.6)[0m
+[0m[[0m[33mwarn[0m] [0m[0m9 deprecations in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m265 feature warnings; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m7 warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m

@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/hardfloat/compile-resources",
+        "ref:v0:c984eca8:/nfs/home/zhaotiankun/workspace/ChipDesign/rocket-chip/hardfloat/hardfloat/resources",
+        "ref:v0:90e75f05:/nfs/home/zhaotiankun/workspace/ChipDesign/out/rocketchip/hardfloat/compile.dest/classes"
+    ],
+    "valueHash": 659126998,
+    "inputsHash": 1805406956
+}
