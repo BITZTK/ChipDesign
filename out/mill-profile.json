@@ -1,25 +1,13 @@
 [
   {
-    "label": "ChipDesign.test.compileResources",
-    "millis": 29,
-    "inputsHash": -1486516773,
-    "previousInputsHash": 1151774374
-  },
-  {
-    "label": "ChipDesign.test.resources",
-    "millis": 6,
-    "inputsHash": 903576271,
-    "previousInputsHash": -1297584638
-  },
-  {
     "label": "ChipDesign.scalaVersion",
-    "millis": 1,
+    "millis": 31,
     "cached": true,
     "inputsHash": 119056309
   },
   {
     "label": "ChipDesign.test.scalaVersion",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.scalaVersion"
@@ -35,12 +23,12 @@
   {
     "label": "mill.scalalib.ZincWorkerModule.zincLogDebug",
     "millis": 3,
-    "inputsHash": 699310156,
-    "previousInputsHash": 1473149953
+    "inputsHash": -1021540086,
+    "previousInputsHash": 1351731276
   },
   {
     "label": "mill.scalalib.ZincWorkerModule.worker",
-    "millis": 17,
+    "millis": 18,
     "cached": false,
     "dependencies": [
       "mill.scalalib.ZincWorkerModule.classpath",
@@ -50,7 +38,7 @@
   },
   {
     "label": "rocketchip.scalaVersion",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "inputsHash": -571454000
   },
@@ -68,9 +56,9 @@
   },
   {
     "label": "rocketchip.macros.sources",
-    "millis": 8,
-    "inputsHash": -811958886,
-    "previousInputsHash": 1988361648
+    "millis": 9,
+    "inputsHash": -651134414,
+    "previousInputsHash": 655269656
   },
   {
     "label": "rocketchip.macros.generatedSources",
@@ -90,7 +78,7 @@
   },
   {
     "label": "rocketchip.macros.allSourceFiles",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.macros.allSources"
@@ -105,9 +93,9 @@
   },
   {
     "label": "rocketchip.macros.compileResources",
-    "millis": 5,
-    "inputsHash": 1036040637,
-    "previousInputsHash": 1061358808
+    "millis": 4,
+    "inputsHash": -106715351,
+    "previousInputsHash": -1861229517
   },
   {
     "label": "rocketchip.macros.unmanagedClasspath",
@@ -117,7 +105,7 @@
   },
   {
     "label": "rocketchip.macros.compileIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": 1086152090
   },
@@ -129,7 +117,7 @@
   },
   {
     "label": "rocketchip.macros.transitiveCompileIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.macros.scalaVersion",
@@ -244,7 +232,7 @@
   },
   {
     "label": "rocketchip.macros.enablePluginScalacOptions.super.mill.scalalib.ScalaModule.enablePluginScalacOptions",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.macros.scalaVersion",
@@ -256,7 +244,7 @@
   },
   {
     "label": "rocketchip.macros.scalacOptions",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "inputsHash": 1454911860
   },
@@ -297,13 +285,13 @@
   },
   {
     "label": "rocketchip.macros.zincReportCachedProblems",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": 1414134746
   },
   {
     "label": "rocketchip.macros.compile",
-    "millis": 3,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.macros.scalaVersion",
@@ -322,21 +310,21 @@
   },
   {
     "label": "rocketchip.hardfloat.scalaVersion",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": 1775032307
   },
   {
     "label": "rocketchip.hardfloat.upstreamCompileOutput",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": -294760571
   },
   {
     "label": "rocketchip.hardfloat.sources",
-    "millis": 15,
-    "inputsHash": -1138686912,
-    "previousInputsHash": -419289860
+    "millis": 11,
+    "inputsHash": 1937110499,
+    "previousInputsHash": -904551520
   },
   {
     "label": "rocketchip.hardfloat.generatedSources",
@@ -346,7 +334,7 @@
   },
   {
     "label": "rocketchip.hardfloat.allSources",
-    "millis": 1,
+    "millis": 0,
     "cached": true,
     "dependencies": [
       "rocketchip.hardfloat.sources",
@@ -371,13 +359,13 @@
   },
   {
     "label": "rocketchip.hardfloat.compileResources",
-    "millis": 4,
-    "inputsHash": -2116421885,
-    "previousInputsHash": 889453648
+    "millis": 3,
+    "inputsHash": 1569270991,
+    "previousInputsHash": 1401762251
   },
   {
     "label": "rocketchip.hardfloat.unmanagedClasspath",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": 1264825943
   },
@@ -395,7 +383,7 @@
   },
   {
     "label": "rocketchip.hardfloat.transitiveCompileIvyDeps",
-    "millis": 1,
+    "millis": 0,
     "cached": true,
     "dependencies": [
       "rocketchip.hardfloat.scalaVersion",
@@ -427,7 +415,7 @@
   },
   {
     "label": "rocketchip.hardfloat.scalaOrganization",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.hardfloat.scalaVersion"
@@ -446,7 +434,7 @@
   },
   {
     "label": "rocketchip.hardfloat.mandatoryIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.hardfloat.mandatoryIvyDeps.super.mill.scalalib.JavaModule.mandatoryIvyDeps",
@@ -498,7 +486,7 @@
   },
   {
     "label": "rocketchip.hardfloat.mandatoryScalacOptions",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": -1849229017
   },
@@ -510,7 +498,7 @@
   },
   {
     "label": "rocketchip.hardfloat.scalacPluginIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.hardfloat.scalacPluginIvyDeps.super.mill.scalalib.ScalaModule.scalacPluginIvyDeps"
@@ -531,7 +519,7 @@
   },
   {
     "label": "rocketchip.hardfloat.scalacOptions.super.mill.scalalib.ScalaModule.scalacOptions",
-    "millis": 4,
+    "millis": 1,
     "cached": true,
     "inputsHash": -2038896052
   },
@@ -543,7 +531,7 @@
   },
   {
     "label": "rocketchip.hardfloat.scalacOptions",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.hardfloat.scalacOptions.super.mill.scalalib.ScalaModule.scalacOptions",
@@ -588,7 +576,7 @@
   },
   {
     "label": "rocketchip.hardfloat.scalacPluginClasspath",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.hardfloat.scalacPluginClasspath.super.mill.scalalib.ScalaModule.scalacPluginClasspath",
@@ -598,7 +586,7 @@
   },
   {
     "label": "rocketchip.hardfloat.zincReportCachedProblems",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": 1414134746
   },
@@ -623,7 +611,7 @@
   },
   {
     "label": "rocketchip.cde.scalaVersion",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": 1749069802
   },
@@ -635,9 +623,9 @@
   },
   {
     "label": "rocketchip.cde.sources",
-    "millis": 6,
-    "inputsHash": 682674742,
-    "previousInputsHash": 1574617852
+    "millis": 7,
+    "inputsHash": -1771826468,
+    "previousInputsHash": -1884671544
   },
   {
     "label": "rocketchip.cde.generatedSources",
@@ -647,7 +635,7 @@
   },
   {
     "label": "rocketchip.cde.allSources",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.cde.sources",
@@ -657,7 +645,7 @@
   },
   {
     "label": "rocketchip.cde.allSourceFiles",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.cde.allSources"
@@ -666,19 +654,19 @@
   },
   {
     "label": "rocketchip.cde.transitiveCompileClasspath",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": -224807636
   },
   {
     "label": "rocketchip.cde.compileResources",
-    "millis": 3,
-    "inputsHash": 743275444,
-    "previousInputsHash": 1592256323
+    "millis": 4,
+    "inputsHash": -561555896,
+    "previousInputsHash": -793787714
   },
   {
     "label": "rocketchip.cde.unmanagedClasspath",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": 1264825943
   },
@@ -713,7 +701,7 @@
   },
   {
     "label": "rocketchip.cde.mandatoryIvyDeps.super.mill.scalalib.JavaModule.mandatoryIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": -330886596
   },
@@ -728,7 +716,7 @@
   },
   {
     "label": "rocketchip.cde.scalaLibraryIvyDeps",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.cde.scalaOrganization",
@@ -748,7 +736,7 @@
   },
   {
     "label": "rocketchip.cde.transitiveIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.cde.scalaVersion",
@@ -760,7 +748,7 @@
   },
   {
     "label": "rocketchip.cde.resolvedIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.cde.transitiveCompileIvyDeps",
@@ -796,7 +784,7 @@
   },
   {
     "label": "rocketchip.cde.scalacPluginIvyDeps",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": 948275352
   },
@@ -814,7 +802,7 @@
   },
   {
     "label": "rocketchip.cde.scalacOptions",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": 1454911860
   },
@@ -855,13 +843,13 @@
   },
   {
     "label": "rocketchip.cde.zincReportCachedProblems",
-    "millis": 1,
+    "millis": 0,
     "cached": true,
     "inputsHash": 1414134746
   },
   {
     "label": "rocketchip.cde.compile",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.cde.scalaVersion",
@@ -891,9 +879,9 @@
   },
   {
     "label": "rocketchip.sources",
-    "millis": 170,
-    "inputsHash": -1313243566,
-    "previousInputsHash": 955678061
+    "millis": 172,
+    "inputsHash": -1845008292,
+    "previousInputsHash": 978983184
   },
   {
     "label": "rocketchip.generatedSources",
@@ -903,7 +891,7 @@
   },
   {
     "label": "rocketchip.allSources",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.sources",
@@ -913,7 +901,7 @@
   },
   {
     "label": "rocketchip.allSourceFiles",
-    "millis": 3,
+    "millis": 4,
     "cached": true,
     "dependencies": [
       "rocketchip.allSources"
@@ -937,8 +925,8 @@
   {
     "label": "rocketchip.compileResources",
     "millis": 5,
-    "inputsHash": -343325143,
-    "previousInputsHash": -1977750724
+    "inputsHash": 167877630,
+    "previousInputsHash": 765801765
   },
   {
     "label": "rocketchip.unmanagedClasspath",
@@ -977,7 +965,7 @@
   },
   {
     "label": "rocketchip.ivyDeps.super.millbuild.rocket-chip.common.HasChisel.ivyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.ivyDeps.super.mill.scalalib.JavaModule.ivyDeps"
@@ -1001,7 +989,7 @@
   },
   {
     "label": "rocketchip.scalaOrganization",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.scalaVersion"
@@ -1010,7 +998,7 @@
   },
   {
     "label": "rocketchip.scalaLibraryIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "rocketchip.scalaOrganization",
@@ -1057,7 +1045,7 @@
   },
   {
     "label": "rocketchip.compileClasspath",
-    "millis": 7,
+    "millis": 6,
     "cached": true,
     "dependencies": [
       "rocketchip.transitiveCompileClasspath",
@@ -1069,19 +1057,19 @@
   },
   {
     "label": "rocketchip.javacOptions",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "inputsHash": -444021079
   },
   {
     "label": "rocketchip.mandatoryScalacOptions",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": -1846727268
   },
   {
     "label": "rocketchip.scalacPluginIvyDeps.super.mill.scalalib.ScalaModule.scalacPluginIvyDeps",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "inputsHash": -1134550368
   },
@@ -1120,7 +1108,7 @@
   },
   {
     "label": "rocketchip.scalacOptions",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.scalacOptions.super.mill.scalalib.ScalaModule.scalacOptions",
@@ -1130,7 +1118,7 @@
   },
   {
     "label": "rocketchip.allScalacOptions",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.mandatoryScalacOptions",
@@ -1153,7 +1141,7 @@
   },
   {
     "label": "rocketchip.scalacPluginClasspath.super.mill.scalalib.ScalaModule.scalacPluginClasspath",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.scalaVersion",
@@ -1165,7 +1153,7 @@
   },
   {
     "label": "rocketchip.scalacPluginClasspath",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.scalacPluginClasspath.super.mill.scalalib.ScalaModule.scalacPluginClasspath",
@@ -1206,7 +1194,7 @@
   },
   {
     "label": "xsutils.upstreamCompileOutput",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "rocketchip.compile",
@@ -1218,19 +1206,19 @@
   },
   {
     "label": "xsutils.sources",
-    "millis": 35,
-    "inputsHash": 810747525,
-    "previousInputsHash": -1584504083
+    "millis": 22,
+    "inputsHash": -1973763871,
+    "previousInputsHash": 363195782
   },
   {
     "label": "xsutils.generatedSources",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": -926567499
   },
   {
     "label": "xsutils.allSources",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "xsutils.sources",
@@ -1249,7 +1237,7 @@
   },
   {
     "label": "xsutils.transitiveCompileClasspath",
-    "millis": 2,
+    "millis": 3,
     "cached": true,
     "dependencies": [
       "rocketchip.compileClasspath",
@@ -1265,25 +1253,25 @@
   },
   {
     "label": "xsutils.compileResources",
-    "millis": 5,
-    "inputsHash": -24388474,
-    "previousInputsHash": 975576526
+    "millis": 4,
+    "inputsHash": 810175820,
+    "previousInputsHash": -208895777
   },
   {
     "label": "xsutils.unmanagedClasspath",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": 1267327692
   },
   {
     "label": "xsutils.compileIvyDeps",
-    "millis": 0,
+    "millis": 2,
     "cached": true,
     "inputsHash": 1088653839
   },
   {
     "label": "xsutils.platformSuffix",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": -1691278030
   },
@@ -1300,7 +1288,7 @@
   },
   {
     "label": "xsutils.ivyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": 1847487976
   },
@@ -1331,7 +1319,7 @@
   },
   {
     "label": "xsutils.mandatoryIvyDeps",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "xsutils.mandatoryIvyDeps.super.mill.scalalib.JavaModule.mandatoryIvyDeps",
@@ -1366,7 +1354,7 @@
   },
   {
     "label": "xsutils.compileClasspath",
-    "millis": 2,
+    "millis": 3,
     "cached": true,
     "dependencies": [
       "xsutils.transitiveCompileClasspath",
@@ -1390,7 +1378,7 @@
   },
   {
     "label": "xsutils.scalacPluginIvyDeps",
-    "millis": 2,
+    "millis": 1,
     "cached": true,
     "inputsHash": -2103431356
   },
@@ -1423,7 +1411,7 @@
   },
   {
     "label": "xsutils.allScalacOptions",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "xsutils.mandatoryScalacOptions",
@@ -1434,7 +1422,7 @@
   },
   {
     "label": "xsutils.scalaCompilerClasspath",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "xsutils.scalaVersion",
@@ -1446,7 +1434,7 @@
   },
   {
     "label": "xsutils.scalacPluginClasspath",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "xsutils.scalaVersion",
@@ -1464,7 +1452,7 @@
   },
   {
     "label": "xsutils.compile",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "xsutils.scalaVersion",
@@ -1496,9 +1484,9 @@
   },
   {
     "label": "ChipDesign.sources",
-    "millis": 7,
-    "inputsHash": -964064566,
-    "previousInputsHash": 1659346914
+    "millis": 6,
+    "inputsHash": 1701984346,
+    "previousInputsHash": -1074784782
   },
   {
     "label": "ChipDesign.generatedSources",
@@ -1508,7 +1496,7 @@
   },
   {
     "label": "ChipDesign.allSources",
-    "millis": 1,
+    "millis": 3,
     "cached": true,
     "dependencies": [
       "ChipDesign.sources",
@@ -1527,7 +1515,7 @@
   },
   {
     "label": "ChipDesign.transitiveCompileClasspath",
-    "millis": 2,
+    "millis": 3,
     "cached": true,
     "dependencies": [
       "rocketchip.compileClasspath",
@@ -1545,13 +1533,13 @@
   },
   {
     "label": "ChipDesign.compileResources",
-    "millis": 3,
-    "inputsHash": -1941063382,
-    "previousInputsHash": 140371944
+    "millis": 5,
+    "inputsHash": 1578778961,
+    "previousInputsHash": 1938593897
   },
   {
     "label": "ChipDesign.unmanagedClasspath",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": 929504406
   },
@@ -1563,7 +1551,7 @@
   },
   {
     "label": "ChipDesign.platformSuffix",
-    "millis": 1,
+    "millis": 0,
     "cached": true,
     "inputsHash": -2029101316
   },
@@ -1601,7 +1589,7 @@
   },
   {
     "label": "ChipDesign.scalaOrganization",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "ChipDesign.scalaVersion"
@@ -1644,7 +1632,7 @@
   },
   {
     "label": "ChipDesign.resolvedIvyDeps",
-    "millis": 4,
+    "millis": 3,
     "cached": true,
     "dependencies": [
       "ChipDesign.transitiveCompileIvyDeps",
@@ -1656,7 +1644,7 @@
   },
   {
     "label": "ChipDesign.compileClasspath",
-    "millis": 3,
+    "millis": 4,
     "cached": true,
     "dependencies": [
       "ChipDesign.transitiveCompileClasspath",
@@ -1680,7 +1668,7 @@
   },
   {
     "label": "ChipDesign.scalacPluginIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": 1853712654
   },
@@ -1748,13 +1736,13 @@
   },
   {
     "label": "ChipDesign.zincReportCachedProblems",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "inputsHash": 1078813209
   },
   {
     "label": "ChipDesign.compile",
-    "millis": 0,
+    "millis": 1,
     "cached": true,
     "dependencies": [
       "ChipDesign.scalaVersion",
@@ -1787,9 +1775,9 @@
   },
   {
     "label": "ChipDesign.test.sources",
-    "millis": 5,
-    "inputsHash": 1586947727,
-    "previousInputsHash": 606493563
+    "millis": 9,
+    "inputsHash": -357589313,
+    "previousInputsHash": -514600757
   },
   {
     "label": "ChipDesign.test.generatedSources",
@@ -1799,7 +1787,7 @@
   },
   {
     "label": "ChipDesign.test.allSources",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.sources",
@@ -1809,7 +1797,7 @@
   },
   {
     "label": "ChipDesign.test.allSourceFiles",
-    "millis": 1,
+    "millis": 3,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.allSources"
@@ -1818,7 +1806,7 @@
   },
   {
     "label": "ChipDesign.test.transitiveCompileClasspath",
-    "millis": 3,
+    "millis": 4,
     "cached": true,
     "dependencies": [
       "ChipDesign.compileClasspath",
@@ -1837,14 +1825,20 @@
     "inputsHash": -105156680
   },
   {
+    "label": "ChipDesign.test.compileResources",
+    "millis": 5,
+    "inputsHash": 488709767,
+    "previousInputsHash": -938700274
+  },
+  {
     "label": "ChipDesign.test.unmanagedClasspath",
-    "millis": 0,
+    "millis": 2,
     "cached": true,
     "inputsHash": 898369662
   },
   {
     "label": "ChipDesign.test.compileIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": 719695809
   },
@@ -1856,7 +1850,7 @@
   },
   {
     "label": "ChipDesign.test.transitiveCompileIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.scalaVersion",
@@ -1867,13 +1861,13 @@
   },
   {
     "label": "ChipDesign.test.ivyDeps.super.mill.scalalib.JavaModule.ivyDeps",
-    "millis": 0,
+    "millis": 3,
     "cached": true,
     "inputsHash": -941983631
   },
   {
     "label": "ChipDesign.test.ivyDeps",
-    "millis": 0,
+    "millis": 4,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.ivyDeps.super.mill.scalalib.JavaModule.ivyDeps"
@@ -1882,7 +1876,7 @@
   },
   {
     "label": "ChipDesign.test.mandatoryIvyDeps.super.mill.scalalib.JavaModule.mandatoryIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "inputsHash": -697342877
   },
@@ -1897,7 +1891,7 @@
   },
   {
     "label": "ChipDesign.test.scalaLibraryIvyDeps",
-    "millis": 0,
+    "millis": 3,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.scalaOrganization",
@@ -1917,7 +1911,7 @@
   },
   {
     "label": "ChipDesign.test.transitiveIvyDeps",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.scalaVersion",
@@ -1930,7 +1924,7 @@
   },
   {
     "label": "ChipDesign.test.resolvedIvyDeps",
-    "millis": 3,
+    "millis": 4,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.transitiveCompileIvyDeps",
@@ -1942,7 +1936,7 @@
   },
   {
     "label": "ChipDesign.test.compileClasspath",
-    "millis": 2,
+    "millis": 4,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.transitiveCompileClasspath",
@@ -1954,7 +1948,7 @@
   },
   {
     "label": "ChipDesign.test.javacOptions",
-    "millis": 0,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.javacOptions"
@@ -1963,7 +1957,7 @@
   },
   {
     "label": "ChipDesign.test.mandatoryScalacOptions",
-    "millis": 0,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.mandatoryScalacOptions"
@@ -1993,7 +1987,7 @@
   },
   {
     "label": "ChipDesign.test.scalacOptions",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.scalacOptions"
@@ -2002,7 +1996,7 @@
   },
   {
     "label": "ChipDesign.test.allScalacOptions",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.mandatoryScalacOptions",
@@ -2013,7 +2007,7 @@
   },
   {
     "label": "ChipDesign.test.scalaCompilerClasspath",
-    "millis": 1,
+    "millis": 4,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.scalaVersion",
@@ -2025,7 +2019,7 @@
   },
   {
     "label": "ChipDesign.test.scalacPluginClasspath",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.scalacPluginClasspath"
@@ -2040,7 +2034,7 @@
   },
   {
     "label": "ChipDesign.test.compile",
-    "millis": 1,
+    "millis": 2,
     "cached": true,
     "dependencies": [
       "ChipDesign.test.scalaVersion",
@@ -2056,219 +2050,5 @@
       "ChipDesign.test.zincReportCachedProblems"
     ],
     "inputsHash": 1710217469
-  },
-  {
-    "label": "ChipDesign.test.localClasspath",
-    "millis": 0,
-    "cached": true,
-    "dependencies": [
-      "ChipDesign.test.compileResources",
-      "ChipDesign.test.resources",
-      "ChipDesign.test.compile"
-    ],
-    "inputsHash": 1676683950
-  },
-  {
-    "label": "ChipDesign.resources",
-    "millis": 5,
-    "inputsHash": 1870542290,
-    "previousInputsHash": 15287569
-  },
-  {
-    "label": "ChipDesign.localClasspath",
-    "millis": 1,
-    "cached": true,
-    "dependencies": [
-      "ChipDesign.compileResources",
-      "ChipDesign.resources",
-      "ChipDesign.compile"
-    ],
-    "inputsHash": -1255914728
-  },
-  {
-    "label": "rocketchip.resources",
-    "millis": 8,
-    "inputsHash": -1312408741,
-    "previousInputsHash": -1968999607
-  },
-  {
-    "label": "rocketchip.localClasspath",
-    "millis": 1,
-    "cached": true,
-    "dependencies": [
-      "rocketchip.compileResources",
-      "rocketchip.resources",
-      "rocketchip.compile"
-    ],
-    "inputsHash": 1488401889
-  },
-  {
-    "label": "rocketchip.macros.resources",
-    "millis": 3,
-    "inputsHash": -216455953,
-    "previousInputsHash": 476010183
-  },
-  {
-    "label": "rocketchip.macros.localClasspath",
-    "millis": 1,
-    "cached": true,
-    "dependencies": [
-      "rocketchip.macros.compileResources",
-      "rocketchip.macros.resources",
-      "rocketchip.macros.compile"
-    ],
-    "inputsHash": 260996554
-  },
-  {
-    "label": "rocketchip.hardfloat.resources",
-    "millis": 3,
-    "inputsHash": 1968768197,
-    "previousInputsHash": -1838517942
-  },
-  {
-    "label": "rocketchip.hardfloat.localClasspath",
-    "millis": 0,
-    "cached": true,
-    "dependencies": [
-      "rocketchip.hardfloat.compileResources",
-      "rocketchip.hardfloat.resources",
-      "rocketchip.hardfloat.compile"
-    ],
-    "inputsHash": 1805406956
-  },
-  {
-    "label": "rocketchip.cde.resources",
-    "millis": 3,
-    "inputsHash": 1274036302,
-    "previousInputsHash": -635652551
-  },
-  {
-    "label": "rocketchip.cde.localClasspath",
-    "millis": 0,
-    "cached": true,
-    "dependencies": [
-      "rocketchip.cde.compileResources",
-      "rocketchip.cde.resources",
-      "rocketchip.cde.compile"
-    ],
-    "inputsHash": -1247243996
-  },
-  {
-    "label": "xsutils.resources",
-    "millis": 4,
-    "inputsHash": 706454923,
-    "previousInputsHash": 1320302341
-  },
-  {
-    "label": "xsutils.localClasspath",
-    "millis": 1,
-    "cached": true,
-    "dependencies": [
-      "xsutils.compileResources",
-      "xsutils.resources",
-      "xsutils.compile"
-    ],
-    "inputsHash": 1631354762
-  },
-  {
-    "label": "ChipDesign.test.transitiveLocalClasspath",
-    "millis": 1,
-    "cached": true,
-    "dependencies": [
-      "ChipDesign.localClasspath",
-      "rocketchip.localClasspath",
-      "rocketchip.macros.localClasspath",
-      "rocketchip.hardfloat.localClasspath",
-      "rocketchip.cde.localClasspath",
-      "xsutils.localClasspath"
-    ],
-    "inputsHash": 283369058
-  },
-  {
-    "label": "ChipDesign.test.runIvyDeps",
-    "millis": 1,
-    "cached": true,
-    "inputsHash": -909905724
-  },
-  {
-    "label": "ChipDesign.test.resolvedRunIvyDeps",
-    "millis": 3,
-    "cached": true,
-    "dependencies": [
-      "ChipDesign.test.scalaVersion",
-      "ChipDesign.test.platformSuffix",
-      "ChipDesign.test.runIvyDeps",
-      "ChipDesign.test.transitiveIvyDeps",
-      "ChipDesign.test.scalaOrganization"
-    ],
-    "inputsHash": -1606957516
-  },
-  {
-    "label": "ChipDesign.test.upstreamAssemblyClasspath",
-    "millis": 3,
-    "cached": true,
-    "dependencies": [
-      "ChipDesign.test.transitiveLocalClasspath",
-      "ChipDesign.test.unmanagedClasspath",
-      "ChipDesign.test.resolvedRunIvyDeps"
-    ],
-    "inputsHash": -553645892
-  },
-  {
-    "label": "ChipDesign.test.runClasspath",
-    "millis": 3,
-    "cached": true,
-    "dependencies": [
-      "ChipDesign.test.localClasspath",
-      "ChipDesign.test.upstreamAssemblyClasspath"
-    ],
-    "inputsHash": 852796159
-  },
-  {
-    "label": "ChipDesign.test.forkArgs",
-    "millis": 1,
-    "cached": true,
-    "inputsHash": -1064039397
-  },
-  {
-    "label": "ChipDesign.test.forkEnv",
-    "millis": 5,
-    "inputsHash": -1131768962,
-    "previousInputsHash": -218564122
-  },
-  {
-    "label": "ChipDesign.test.forkWorkingDir",
-    "millis": 1,
-    "cached": true,
-    "inputsHash": 1134457535
-  },
-  {
-    "label": "ChipDesign.runUseArgsFile",
-    "millis": 1,
-    "cached": true,
-    "inputsHash": -1392745458
-  },
-  {
-    "label": "ChipDesign.test.runUseArgsFile",
-    "millis": 0,
-    "cached": true,
-    "dependencies": [
-      "ChipDesign.runUseArgsFile"
-    ],
-    "inputsHash": 1066026527
-  },
-  {
-    "label": "ChipDesign.test.runMain",
-    "millis": 1591,
-    "cached": false,
-    "dependencies": [
-      "ChipDesign.test.runClasspath",
-      "ChipDesign.test.forkArgs",
-      "ChipDesign.test.forkEnv",
-      "ChipDesign.test.forkWorkingDir",
-      "ChipDesign.test.runUseArgsFile"
-    ],
-    "inputsHash": -32965070,
-    "previousInputsHash": 198908469
   }
 ]
